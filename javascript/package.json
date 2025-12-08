@@ -1,0 +1,19 @@
+{
+    "name": "dsa-in-javascript",
+    "version": "1.0.0",
+    "description": "DSA Course in JavaScript with Extensive Practice Problems",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "dsa",
+        "javascript",
+        "practice"
+    ],
+    "author": "Naitik",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
+}
